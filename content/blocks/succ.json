@@ -1,0 +1,14 @@
+name: Black Hole
+description: It suck all items in.
+type: LaunchPad
+health: 69420
+alwaysUnlocked: true
+itemCapacity: -3000
+size: 1
+launchTime: 0
+buildCostMultiplier: 1
+requirements: [
+  copper/1
+]
+category: effect
+research: core-shard
