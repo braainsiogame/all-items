@@ -1,1 +1,0 @@
-succ.alwaysUnlocked = true
