@@ -1,3 +1,1 @@
-playerPlaced(launcher){
-  Call.launchZone();
-}
+Call.onInfoMessage("yappari san")
