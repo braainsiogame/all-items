@@ -1,0 +1,12 @@
+name: Launcher
+description: place this to instantly die
+type: Wall
+health: 69420
+alwaysUnlocked: true
+size: 3
+buildCostMultiplier: 1
+requirements: [
+  copper/1
+]
+category: effect
+research: core-shard
