@@ -1,0 +1,3 @@
+playerPlaced(launcher){
+  Call.launchZone();
+}
